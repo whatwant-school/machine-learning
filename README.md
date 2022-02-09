@@ -85,3 +85,10 @@ machine learning
 - 델파이는 다양한 일상 상황에서 사람들의 도덕적 판단을 모델링하기 위해 고안된 연구 프로토타입
 - 모델의 능력과 한계를 보여주기 위한 프로젝트
 - https://delphi.allenai.org/
+
+
+---
+## Education
+
+### 인공지능(AI) 교육 자료
+- https://ai4edu.notion.site/ai4edu/AI-92b8c8eca0294fc7a9a2538bca205bdf
