@@ -44,6 +44,15 @@ machine learning
 
 
 ---
+## GNN
+
+### GNN에 대한 소개 및 GCN 등 잘 설명하고 있는 블로그
+- https://ralasun.github.io/deep%20learning/2021/02/11/gcn/
+- https://ralasun.github.io/deep%20learning/2021/02/15/gcn/
+
+
+
+---
 ## NLP (자연어 처리)
 
 ### 딥 러닝을 이용한 자연어 처리 입문
