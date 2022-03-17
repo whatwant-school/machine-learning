@@ -3,7 +3,22 @@ machine learning
 
 
 ---
-## 딥러닝 입문
+# 딥러닝 입문
+
+## Video
+
+### [[MODUCON 2018] 쫄지말자 딥러닝 - 김승일(1:33:21)](https://www.youtube.com/watch?v=QLTBYDKfs6w)
+* 말 그대로 입문 내용으로 비전공자도 부담없이 볼 수 있는 수준
+* `인공지능 → 머신러닝 → 딥러닝 → CNN → RNN → Application`까지 언급
+
+
+
+
+
+
+
+
+## Documents
 
 ### PyTorch로 시작하는 딥 러닝 입문
 - 비영리 목적의 무료 eBook 이지만, 잘 정리된 내용
