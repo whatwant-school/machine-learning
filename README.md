@@ -9,7 +9,7 @@ machine learning
 
 ### [[MODUCON 2018] 쫄지말자 딥러닝 - 김승일(1:33:21)](https://www.youtube.com/watch?v=QLTBYDKfs6w)
 * 말 그대로 입문 내용으로 비전공자도 부담없이 볼 수 있는 수준
-* `인공지능 → 머신러닝 → 딥러닝 → CNN → RNN → Application`까지 언급
+* `인공지능 → 머신러닝 → 딥러닝 → CNN → RNN → Application`까지 언급한다고 했는데, CNN까지만 진행됨
 
 
 
