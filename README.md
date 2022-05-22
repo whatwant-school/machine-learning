@@ -92,6 +92,10 @@ machine learning
   - [PDF](https://rlqof7ogm.toastcdn.net/references/2021_session_07.pdf)
   - GLoVe(GLoval Vectors for Word Representation)를 이용한 자연어 처리 방법
 
+- [MODUCON 2019] Transformer Evolution - 현청천
+  - [VIDEO](https://www.youtube.com/watch?v=cV_tJfjeLJE)
+  - Transformer를 이용한 Pretrained Language Model의 발전과정과 각각의 특징을 요약 및 비교(GPT, BERT, ..., ALBERT까지)
+
 ---
 ## Example
 
