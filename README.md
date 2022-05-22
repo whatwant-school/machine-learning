@@ -87,6 +87,10 @@ machine learning
   - https://github.com/eagle705/pytorch-bert-crf-ner
   - BERT를 이용한 토이 프로젝트 진행 과정 설명
 
+- [NHN FORWARD 2021] 텍스트 데이터를 숫자로 변환하기: 자연어 처리의 실무 활용 방법
+  - [VIDEO](https://forward.nhn.com/2021/sessions/7)
+  - [PDF](https://rlqof7ogm.toastcdn.net/references/2021_session_07.pdf)
+  - GLoVe(GLoval Vectors for Word Representation)를 이용한 자연어 처리 방법
 
 ---
 ## Example
